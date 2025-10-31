@@ -17,4 +17,7 @@ Division
 3.Conditional statements (if, elif, else)
 4.Arithmetic operators
 ##### Author
-Created by K.PragnaJessi — a Python learner exploring simple, practical projects.
+**PragnaJessi Koduri**
+Email: **pragnajessik@gmail.com**
+GitHub: [pragnajessi] (https://github.com/pragnajessi)
+
